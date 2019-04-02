@@ -5,6 +5,9 @@ A curated list of awesome Indie Maker
 
 *Idea is start, niche is very important*
 
+* [Product Hunt](https://www.producthunt.com/) - The best new products in tech.
+* [Wappalyzer](https://www.wappalyzer.com/) - Identify technology on websites.
+
 ## 🛠 Build
 
 *Build your idea with the tools you already know*
@@ -20,7 +23,7 @@ A curated list of awesome Indie Maker
 
 ## 💰 Monetize
 
-*Provide value to people. *
+*Provide value to people.*
 
 ## 🤖 Automate
 
