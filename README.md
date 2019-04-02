@@ -28,6 +28,9 @@ A curated list of awesome Indie Maker
 
 *Provide value to people.*
 
+* [Stripe](https://stripe.com/) - Online payment processing for internet businesses
+* [Braintree](https://www.braintreepayments.com/) - Process payments online, including credit cards, debit cards, digital wallets, PayPal, Venmo, Apple Pay, and Google Pay in a single integration.
+
 ## 🤖 Automate
 
 *Machine is loyal*
