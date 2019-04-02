@@ -12,6 +12,9 @@ A curated list of awesome Indie Maker
 
 *Build your idea with the tools you already know*
 
+* [Themeforest](https://themeforest.net) - WordPress Themes & Website Templates
+* [Unsplash](https://unsplash.com/) - Beautiful Free Images & Pictures
+
 ## 🚀 Launch
 
 *Big step, hello world*
