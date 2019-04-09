@@ -1,7 +1,7 @@
 # Awesome Indie Maker
 A curated list of awesome Indie Maker
 
-## 💡 Makers
+## 😃 Makers
 
 *Cool guys*
 
