@@ -1,6 +1,15 @@
 # Awesome Indie Maker
 A curated list of awesome Indie Maker
 
+## 💡 Makers
+
+*Cool guys*
+
+* [Levels](https://levels.io/) - I'm the maker of Nomad List.
+* [李自然说](https://www.youtube.com/channel/UCgLUl1WDoDXUtxPaZeSZHsw) - 有趣的灵魂，聊科技人文。
+* [Charles](https://charlesngo.com/) - I teach people how to create a business online using affiliate marketing.
+* [Dan Lok](https://www.youtube.com/channel/UCs_6DXZROU29pLvgQdCx4Ww) - After 13 failed businesses, Dan finally became a self-made millionaire at age 27 and multi-millionaire by age 30.
+
 ## 💡 Idea
 
 *Idea is start, niche is very important*
@@ -14,6 +23,7 @@ A curated list of awesome Indie Maker
 
 * [Themeforest](https://themeforest.net) - WordPress Themes & Website Templates
 * [Unsplash](https://unsplash.com/) - Beautiful Free Images & Pictures
+* [吐个槽](https://tucao.qq.com/) - 免费便捷的用户意见反馈服务平台
 
 ## 🚀 Launch
 
