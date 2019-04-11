@@ -15,6 +15,7 @@ A curated list of awesome Indie Maker
 * [Arthur](https://arthuryeti.com/) -  I am a solopreneur who's traveling the world.
 * [Sergio Mattei](https://twitter.com/matteing) -  I make products people love.
 * [Ryan Hoover](https://twitter.com/rrhoover) - Founder of @ProductHunt, @WeekendFund investor.
+* [Derek Sivers](https://sivers.org/) - Writer, programmer, avid student of life.
 
 ## 💡 Idea
 
@@ -22,6 +23,9 @@ A curated list of awesome Indie Maker
 
 * [Product Hunt](https://www.producthunt.com/) - The best new products in tech.
 * [Wappalyzer](https://www.wappalyzer.com/) - Identify technology on websites.
+* [WorkFlowy](https://workflowy.com/) - A single document that can contain infinite documents inside it. Easier way to organize all the information in your life.
+* [Typeform](https://www.typeform.com/) - Create interactive experiences for your audience — get more responses. It's that simple. Try it FREE – no coding required.
+* [Ideas are just a multiplier of execution](https://sivers.org/multiply) - To me, ideas are worth nothing unless executed. They are just a multiplier. Execution is worth millions.
 
 ## 🛠 Build
 
