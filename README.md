@@ -100,11 +100,8 @@ A curated list of awesome Indie Maker
 
 ## 🤖 Automate
 
-**Make this business run itself with just robots**
+**Make this business run itself with just robots. Machine is loyal**
 
 * [Cronitor](https://cronitor.io/) - Cron monitoring and uptime healthchecks for your websites, services and APIs.
 * [Upwork](https://www.upwork.com/) - Hire Freelancers. Make things happen.
 * [Uptime Robot](https://www.upwork.com/) - Downtime Happens. Get Notified! 50 Monitors, Checked Every 5 Minutes, Totally Free!
-
-
-*Machine is loyal*
