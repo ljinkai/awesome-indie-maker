@@ -84,17 +84,27 @@ A curated list of awesome Indie Maker
 * [SimilarWeb](https://www.similarweb.com/) - Website Traffic Statistics & Market Intelligence
 * [Livestream](https://livestream.com/) - Broadcast & Watch HD Live Streaming Video Events
 * [Social media share images](https://levels.io/phantomjs-social-media-share-pictures/) - How to add shareable pictures to your website with some PhantomJS magic
+* [Discourse](https://www.discourse.org/) - Modern forum software for your community.
+* [Slack](https://slack.com/) - It's where the people you need, the information you share, and the tools you use come together to get things done.
 
 
 ## 💰 Monetize
 
-*Provide value to people.*
+*if you'renever able to monetize your app, you'll never be able to turn it into a business.*
 
 * [Stripe](https://stripe.com/) - Online payment processing for internet businesses
 * [Braintree](https://www.braintreepayments.com/) - Process payments online, including credit cards, debit cards, digital wallets, PayPal, Venmo, Apple Pay, and Google Pay in a single integration.
-* [Patreon](https://www.patreon.com/) - Best way for artists and creators to get sustainable income and connect with fans
+* [PayPal:](https://www.paypal.com) - PayPal is the faster, safer way to send money, make an online payment, receive money or set up a merchant account.
+* [Patreon](https://www.patreon.com/) - Best way for artists and creators to get sustainable income and connect with fans.
 
 
 ## 🤖 Automate
+
+**Make this business run itself with just robots**
+
+* [Cronitor](https://cronitor.io/) - Cron monitoring and uptime healthchecks for your websites, services and APIs.
+* [Upwork](https://www.upwork.com/) - Hire Freelancers. Make things happen.
+* [Uptime Robot](https://www.upwork.com/) - Downtime Happens. Get Notified! 50 Monitors, Checked Every 5 Minutes, Totally Free!
+
 
 *Machine is loyal*
