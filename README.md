@@ -2,16 +2,16 @@
 A curated list of awesome Indie Maker
 
 - [Makers](#makers)
-  - [Idea](#💡-idea)
+  - [Idea](#idea)
   - [Build](#build)
   - [Launch](#launch)
   - [Grow](#grow)
   - [Monetize](#monetize)
   - [Automate](#automate)
 
-## 😃 Makers
+## Makers
 
-*Cool guys*
+😃 *Cool guys*
 
 * [Levels](https://levels.io/) - I'm the maker of Nomad List.
 * [Pat Walls](https://twitter.com/thepatwalls) - Rather not talk about it just do that shit!
@@ -31,9 +31,9 @@ A curated list of awesome Indie Maker
 * [John O'Nolan](https://twitter.com/johnonolan) - Founder @Ghost - Publishing, open source, independent business.
 * [Courtland Allen](https://twitter.com/csallen) - @IndieHackers at @stripe
 
-## 💡 Idea
+## Idea
 
-*Idea is start, niche is very important*
+💡 *Idea is start, niche is very important*
 
 * [Wappalyzer](https://www.wappalyzer.com/) - Identify technology on websites.
 * [WorkFlowy](https://workflowy.com/) - A single document that can contain infinite documents inside it. Easier way to organize all the information in your life.
@@ -47,9 +47,9 @@ A curated list of awesome Indie Maker
 * [Trello](https://trello.com/) - Organize anything with anyone, anywhere!
 * [BetaList ](https://betalist.com/) - Provides an overview of upcoming internet startups. Discover and get early access to the future.
 
-## 🛠 Build
+## Build
 
-*Build your idea with the tools you already know*
+🛠 *Build your idea with the tools you already know*
 
 * [Themeforest](https://themeforest.net) - WordPress Themes & Website Templates
 * [Unsplash](https://unsplash.com/) - Beautiful Free Images & Pictures
@@ -73,7 +73,7 @@ A curated list of awesome Indie Maker
 
 ## Launch
 
-*Big step, hello world*
+🚀 *Big step, hello world*
 
 * [MailChimp](https://mailchimp.com/) - Email marketing, ads, landing pages, and CRM tools to grow your business on your terms.
 * [Google Analytics](https://analytics.google.com/analytics/web/) - Give you the tools you need to better understand your customers.
@@ -85,9 +85,9 @@ A curated list of awesome Indie Maker
 * [Reddit](https://www.reddit.com/) - The front page of the internet
 * [submit.co](https://submit.co/) - Where to get press coverage for your startup
 
-## 🌱 Grow
+## Grow
 
-*Grow organically.*
+🌱 *Grow organically.*
 
 * [SimilarWeb](https://www.similarweb.com/) - Website Traffic Statistics & Market Intelligence
 * [Livestream](https://livestream.com/) - Broadcast & Watch HD Live Streaming Video Events
@@ -96,9 +96,9 @@ A curated list of awesome Indie Maker
 * [Slack](https://slack.com/) - It's where the people you need, the information you share, and the tools you use come together to get things done.
 
 
-## 💰 Monetize
+## Monetize
 
-*if you'renever able to monetize your app, you'll never be able to turn it into a business.*
+💰 *if you'renever able to monetize your app, you'll never be able to turn it into a business.*
 
 * [Stripe](https://stripe.com/) - Online payment processing for internet businesses
 * [Braintree](https://www.braintreepayments.com/) - Process payments online, including credit cards, debit cards, digital wallets, PayPal, Venmo, Apple Pay, and Google Pay in a single integration.
@@ -106,9 +106,9 @@ A curated list of awesome Indie Maker
 * [Patreon](https://www.patreon.com/) - Best way for artists and creators to get sustainable income and connect with fans.
 
 
-## 🤖 Automate
+## Automate
 
-**Make this business run itself with just robots. Machine is loyal**
+🤖 **Make this business run itself with just robots. Machine is loyal**
 
 * [Cronitor](https://cronitor.io/) - Cron monitoring and uptime healthchecks for your websites, services and APIs.
 * [Upwork](https://www.upwork.com/) - Hire Freelancers. Make things happen.
