@@ -1,6 +1,14 @@
 # Awesome Indie Maker
 A curated list of awesome Indie Maker
 
+- [Makers](#makers)
+  - [Idea](#idea)
+  - [Build](#build)
+  - [Launch](#launch)
+  - [Grow](#grow)
+  - [Monetize](#monetize)
+  - [Automate](#automate)
+
 ## 😃 Makers
 
 *Cool guys*
