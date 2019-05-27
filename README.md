@@ -1,6 +1,14 @@
 # Awesome Indie Maker
 A curated list of awesome Indie Maker
 
+- [Makers](#makers)
+  - [Idea](#💡-idea)
+  - [Build](#build)
+  - [Launch](#launch)
+  - [Grow](#grow)
+  - [Monetize](#monetize)
+  - [Automate](#automate)
+
 ## 😃 Makers
 
 *Cool guys*
@@ -63,7 +71,7 @@ A curated list of awesome Indie Maker
 * [Google Forms](https://www.google.com/forms/about/) - Free Online Surveys for Personal Use
 * [giphy](https://giphy.com/) - Find everything from funny GIFs, reaction GIFs, unique GIFs and more.
 
-## 🚀 Launch
+## Launch
 
 *Big step, hello world*
 
