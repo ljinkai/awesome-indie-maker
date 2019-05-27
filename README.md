@@ -2,7 +2,7 @@
 A curated list of awesome Indie Maker
 
 - [Makers](#makers)
-  - [Idea](#😃-idea)
+  - [Idea](#💡-idea)
   - [Build](#build)
   - [Launch](#launch)
   - [Grow](#grow)
