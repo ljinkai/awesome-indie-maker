@@ -31,6 +31,18 @@ A curated list of awesome Indie Maker
 * [John O'Nolan](https://twitter.com/johnonolan) - Founder @Ghost - Publishing, open source, independent business.
 * [Courtland Allen](https://twitter.com/csallen) - @IndieHackers at @stripe
 
+## Existing projects
+
+🤔 *For inspiration*
+
+* [NomadList](https://nomadlist.com/)
+* [RemoteOk](https://remoteok.io/)
+* [ProductHunt](https://www.producthunt.com/)
+* [Sheet2Site](https://sheet2site.com/)
+* [Carrd](https://carrd.co/)
+* [WIP.chat](https://wip.chat/)
+* [SwissDev Jobs](https://swissdevjobs.ch/)
+
 ## Idea
 
 💡 *Idea is start, niche is very important*
