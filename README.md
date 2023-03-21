@@ -43,6 +43,7 @@ A curated list of awesome Indie Maker
 * [Carrd](https://carrd.co/)
 * [WIP.chat](https://wip.chat/)
 * [SwissDev Jobs](https://swissdevjobs.ch/)
+* [Superblogs](https://superblogs.ai/)
 
 ## Idea
 
@@ -127,4 +128,3 @@ A curated list of awesome Indie Maker
 * [Cronitor](https://cronitor.io/) - Cron monitoring and uptime healthchecks for your websites, services and APIs.
 * [Upwork](https://www.upwork.com/) - Hire Freelancers. Make things happen.
 * [Uptime Robot](https://uptimerobot.com/) - Downtime Happens. Get Notified! 50 Monitors, Checked Every 5 Minutes, Totally Free!
-* [Superblogs](https://superblogs.ai/) - Create AI-powered auto-post blogs
