@@ -21,6 +21,7 @@ A curated list of awesome Indie Maker
 * [Pierre-Gilles Leymarie](https://twitter.com/pierregillesl) - Indie Maker Founder of @GladysAssistant Digital Nomad
 * [Ben Tossell](https://twitter.com/bentossell) - I make things without code, and teach others how.
 * [Arthur](https://arthuryeti.com/) -  I am a solopreneur who's traveling the world.
+* [Serhat Aksakal](https://twitter.com/serhataksakall) - Founder of @superblogs_ai, software dev.
 * [Sergio Mattei](https://twitter.com/matteing) -  I make products people love.
 * [Felix Krause](https://krausefx.com/) - Creator of http://fastlane.tools  & http://iOS-factor.com
 * [Ryan Hoover](https://twitter.com/rrhoover) - Founder of @ProductHunt, @WeekendFund investor.
@@ -126,3 +127,4 @@ A curated list of awesome Indie Maker
 * [Cronitor](https://cronitor.io/) - Cron monitoring and uptime healthchecks for your websites, services and APIs.
 * [Upwork](https://www.upwork.com/) - Hire Freelancers. Make things happen.
 * [Uptime Robot](https://uptimerobot.com/) - Downtime Happens. Get Notified! 50 Monitors, Checked Every 5 Minutes, Totally Free!
+* [Superblogs](https://superblogs.ai/) - Create AI-powered auto-post blogs
