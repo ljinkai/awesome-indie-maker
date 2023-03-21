@@ -21,6 +21,7 @@ A curated list of awesome Indie Maker
 * [Pierre-Gilles Leymarie](https://twitter.com/pierregillesl) - Indie Maker Founder of @GladysAssistant Digital Nomad
 * [Ben Tossell](https://twitter.com/bentossell) - I make things without code, and teach others how.
 * [Arthur](https://arthuryeti.com/) -  I am a solopreneur who's traveling the world.
+* [Serhat Aksakal](https://twitter.com/serhataksakall) - Founder of @superblogs_ai, software dev.
 * [Sergio Mattei](https://twitter.com/matteing) -  I make products people love.
 * [Felix Krause](https://krausefx.com/) - Creator of http://fastlane.tools  & http://iOS-factor.com
 * [Ryan Hoover](https://twitter.com/rrhoover) - Founder of @ProductHunt, @WeekendFund investor.
@@ -42,6 +43,7 @@ A curated list of awesome Indie Maker
 * [Carrd](https://carrd.co/)
 * [WIP.chat](https://wip.chat/)
 * [SwissDev Jobs](https://swissdevjobs.ch/)
+* [Superblogs](https://superblogs.ai/)
 
 ## Idea
 
