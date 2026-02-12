@@ -81,6 +81,7 @@ A curated list of awesome Indie Maker
 * [Wix](https://www.wix.com/) - Free Website Builder | Create a Free Website. Choose a stunning template and customize anything.
 * [WordPress](https://www.wordpress.com/) - Create a free website or build a blog. Dozens of free, customizable, mobile-ready designs and themes. Free hosting and support.
 * [Google Forms](https://www.google.com/forms/about/) - Free Online Surveys for Personal Use
+* [Taskade](https://taskade.com) - AI-powered workspace for indie makers with project management, custom AI agents, workflow automation, and real-time collaboration.
 * [giphy](https://giphy.com/) - Find everything from funny GIFs, reaction GIFs, unique GIFs and more.
 
 ## Launch
