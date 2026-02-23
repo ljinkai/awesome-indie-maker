@@ -42,6 +42,7 @@ A curated list of awesome Indie Maker
 * [Carrd](https://carrd.co/)
 * [WIP.chat](https://wip.chat/)
 * [SwissDev Jobs](https://swissdevjobs.ch/)
+* [IndieStack](https://indiestack.fly.dev/) - A curated directory of indie-built SaaS alternatives. Discover tools made by independent developers.
 
 ## Idea
 
