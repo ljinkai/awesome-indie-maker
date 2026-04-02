@@ -8,6 +8,7 @@ A curated list of awesome Indie Maker
   - [Grow](#grow)
   - [Monetize](#monetize)
   - [Automate](#automate)
+- [submission-site-discovery](https://github.com/SeeleAI/submission-site-discovery) - Automated discovery of product submission sites, launch directories, and distribution channels for indie hackers.
 
 ## Makers
 
