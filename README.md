@@ -37,6 +37,7 @@ A curated list of awesome Indie Maker
 
 * [NomadList](https://nomadlist.com/)
 * [RemoteOk](https://remoteok.io/)
+* [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
 * [ProductHunt](https://www.producthunt.com/)
 * [Sheet2Site](https://sheet2site.com/)
 * [Carrd](https://carrd.co/)
