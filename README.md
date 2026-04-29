@@ -11,11 +11,11 @@ A curated list of awesome Indie Maker
 
 ## Makers
 
-😃 *Cool guys*
+ð *Cool guys*
 
 * [Levels](https://levels.io/) - I'm the maker of Nomad List.
 * [Pat Walls](https://twitter.com/thepatwalls) - Rather not talk about it just do that shit!
-* [李自然说](https://www.youtube.com/channel/UCgLUl1WDoDXUtxPaZeSZHsw) - 有趣的灵魂，聊科技人文。
+* [æèªç¶è¯´](https://www.youtube.com/channel/UCgLUl1WDoDXUtxPaZeSZHsw) - æè¶£ççµé­ï¼èç§æäººæã
 * [Charles](https://charlesngo.com/) - I teach people how to create a business online using affiliate marketing.
 * [Dan Lok](https://www.youtube.com/channel/UCs_6DXZROU29pLvgQdCx4Ww) - After 13 failed businesses, Dan finally became a self-made millionaire at age 27 and multi-millionaire by age 30.
 * [Pierre-Gilles Leymarie](https://twitter.com/pierregillesl) - Indie Maker Founder of @GladysAssistant Digital Nomad
@@ -27,13 +27,13 @@ A curated list of awesome Indie Maker
 * [Derek Sivers](https://sivers.org/) - Writer, programmer, avid student of life.
 * [Youjin Do](https://youjin.do/) - A creative maker, documentary director and published author.
 * [Flowen](https://www.flowen.me/) - I create performant, accessible websites and UI with beautiful animation.
-* [Andrey  Azimov](https://twitter.com/andreyazimov) - I create performant, accessible websites and UI with beautiful animation.
+* [Andrey ï£¿ Azimov](https://twitter.com/andreyazimov) - I create performant, accessible websites and UI with beautiful animation.
 * [John O'Nolan](https://twitter.com/johnonolan) - Founder @Ghost - Publishing, open source, independent business.
 * [Courtland Allen](https://twitter.com/csallen) - @IndieHackers at @stripe
 
 ## Existing projects
 
-🤔 *For inspiration*
+ð¤ *For inspiration*
 
 * [NomadList](https://nomadlist.com/)
 * [RemoteOk](https://remoteok.io/)
@@ -45,27 +45,27 @@ A curated list of awesome Indie Maker
 
 ## Idea
 
-💡 *Idea is start, niche is very important*
+ð¡ *Idea is start, niche is very important*
 
 * [Wappalyzer](https://www.wappalyzer.com/) - Identify technology on websites.
 * [WorkFlowy](https://workflowy.com/) - A single document that can contain infinite documents inside it. Easier way to organize all the information in your life.
-* [Typeform](https://www.typeform.com/) - Create interactive experiences for your audience — get more responses. It's that simple. Try it FREE – no coding required.
+* [Typeform](https://www.typeform.com/) - Create interactive experiences for your audience â get more responses. It's that simple. Try it FREE â no coding required.
 * [Ideas are just a multiplier of execution](https://sivers.org/multiply) - To me, ideas are worth nothing unless executed. They are just a multiplier. Execution is worth millions.
 * [Indie Hackers](https://www.indiehackers.com/) - Work Together to Build Profitable Online Businesses
 * [WIP.chat](https://wip.chat/) - We are a community of makers who help each other ship product.
 * [Nomad List](https://nomadlist.com/) - Best Cities to Live and Work Remotely for Digital Nomads.
 * [Turning Side Projects into Profitable Startups](https://www.youtube.com/watch?v=6reLWfFNer0)
-* [Golden Kitty Awards Winners 🏆😺](https://blog.producthunt.com/golden-kitty-awards-winners-7c2628e5f429)
+* [Golden Kitty Awards Winners ððº](https://blog.producthunt.com/golden-kitty-awards-winners-7c2628e5f429)
 * [Trello](https://trello.com/) - Organize anything with anyone, anywhere!
 * [BetaList ](https://betalist.com/) - Provides an overview of upcoming internet startups. Discover and get early access to the future.
 
 ## Build
 
-🛠 *Build your idea with the tools you already know*
+ð  *Build your idea with the tools you already know*
 
 * [Themeforest](https://themeforest.net) - WordPress Themes & Website Templates
 * [Unsplash](https://unsplash.com/) - Beautiful Free Images & Pictures
-* [吐个槽](https://tucao.qq.com/) - 免费便捷的用户意见反馈服务平台
+* [åä¸ªæ§½](https://tucao.qq.com/) - åè´¹ä¾¿æ·çç¨æ·æè§åé¦æå¡å¹³å°
 * [Hyperpixel](https://hyperpixel.io/) - Discover the latest designs for your own inspiration from our curated list of landing pages.
 * [sheet2site](https://sheet2site.com/) - Create a website from Google Sheets without writing code
 * [crisp](https://crisp.chat) - Engage your website visitors using Live Chat
@@ -85,7 +85,7 @@ A curated list of awesome Indie Maker
 
 ## Launch
 
-🚀 *Big step, hello world*
+ð *Big step, hello world*
 
 * [MailChimp](https://mailchimp.com/) - Email marketing, ads, landing pages, and CRM tools to grow your business on your terms.
 * [Google Analytics](https://analytics.google.com/analytics/web/) - Give you the tools you need to better understand your customers.
@@ -100,7 +100,7 @@ A curated list of awesome Indie Maker
 
 ## Grow
 
-🌱 *Grow organically.*
+ð± *Grow organically.*
 
 * [SimilarWeb](https://www.similarweb.com/) - Website Traffic Statistics & Market Intelligence
 * [Livestream](https://livestream.com/) - Broadcast & Watch HD Live Streaming Video Events
@@ -111,7 +111,7 @@ A curated list of awesome Indie Maker
 
 ## Monetize
 
-💰 *if you'renever able to monetize your app, you'll never be able to turn it into a business.*
+ð° *if you'renever able to monetize your app, you'll never be able to turn it into a business.*
 
 * [Stripe](https://stripe.com/) - Online payment processing for internet businesses
 * [Braintree](https://www.braintreepayments.com/) - Process payments online, including credit cards, debit cards, digital wallets, PayPal, Venmo, Apple Pay, and Google Pay in a single integration.
@@ -121,8 +121,10 @@ A curated list of awesome Indie Maker
 
 ## Automate
 
-🤖 **Make this business run itself with just robots. Machine is loyal**
+ð¤ **Make this business run itself with just robots. Machine is loyal**
 
 * [Cronitor](https://cronitor.io/) - Cron monitoring and uptime healthchecks for your websites, services and APIs.
 * [Upwork](https://www.upwork.com/) - Hire Freelancers. Make things happen.
 * [Uptime Robot](https://uptimerobot.com/) - Downtime Happens. Get Notified! 50 Monitors, Checked Every 5 Minutes, Totally Free!
+
+* [Remove audio from video](https://remove-audio.com) - Free, browser-based audio remover. Local processing via WebAssembly. No signup, no watermarks. Batch up to 20 clips.
