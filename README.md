@@ -101,7 +101,7 @@ A curated list of awesome Indie Maker
 ## Grow
 
 🌱 *Grow organically.*
-
+* [Peddlum](https://peddlum.com) - Sell digital products or code and grow through creator-powered promotion.
 * [SimilarWeb](https://www.similarweb.com/) - Website Traffic Statistics & Market Intelligence
 * [Livestream](https://livestream.com/) - Broadcast & Watch HD Live Streaming Video Events
 * [Social media share images](https://levels.io/phantomjs-social-media-share-pictures/) - How to add shareable pictures to your website with some PhantomJS magic
