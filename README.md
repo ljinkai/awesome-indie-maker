@@ -115,6 +115,7 @@ A curated list of awesome Indie Maker
 
 * [Stripe](https://stripe.com/) - Online payment processing for internet businesses
 * [Braintree](https://www.braintreepayments.com/) - Process payments online, including credit cards, debit cards, digital wallets, PayPal, Venmo, Apple Pay, and Google Pay in a single integration.
+* [Digital Product Seller Ledger Sample](https://github.com/Ronnie2025/xianyu-virtual-product-ledger-sample) - Free Excel/CSV ledger sample for tracking orders, costs, refunds, and margins.
 * [PayPal:](https://www.paypal.com) - PayPal is the faster, safer way to send money, make an online payment, receive money or set up a merchant account.
 * [Patreon](https://www.patreon.com/) - Best way for artists and creators to get sustainable income and connect with fans.
 
