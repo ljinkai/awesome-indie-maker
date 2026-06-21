@@ -80,6 +80,7 @@ A curated list of awesome Indie Maker
 * [Tilda](http://tilda.cc/) - Create beautiful websites without any code.
 * [Wix](https://www.wix.com/) - Free Website Builder | Create a Free Website. Choose a stunning template and customize anything.
 * [WordPress](https://www.wordpress.com/) - Create a free website or build a blog. Dozens of free, customizable, mobile-ready designs and themes. Free hosting and support.
+* [UnfoldCMS](https://unfoldcms.com) - Self-hosted open-source CMS (Laravel 12 + React 19). Alternative to Contentful/Sanity. REST API, webhooks, headless mode. ([GitHub](https://github.com/hpakdaman/unfoldcms))
 * [Google Forms](https://www.google.com/forms/about/) - Free Online Surveys for Personal Use
 * [giphy](https://giphy.com/) - Find everything from funny GIFs, reaction GIFs, unique GIFs and more.
 
