@@ -42,6 +42,7 @@ A curated list of awesome Indie Maker
 * [Carrd](https://carrd.co/)
 * [WIP.chat](https://wip.chat/)
 * [SwissDev Jobs](https://swissdevjobs.ch/)
+* [Ordinary Man Trying](https://ordinarymantrying.com/) - Building-in-public blog by a Chinese indie maker. AI experiments, side hustles, value investing tools. All free tools open source on GitHub.
 
 ## Idea
 
