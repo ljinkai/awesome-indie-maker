@@ -13,6 +13,7 @@ A curated list of awesome Indie Maker
 
 😃 *Cool guys*
 
+* [Ordinary Man Trying](https://ordinarymantrying.com) - Chinese IT worker, 40s, building 47 free AI tools and documenting a 5-year live experiment in public.
 * [Levels](https://levels.io/) - I'm the maker of Nomad List.
 * [Pat Walls](https://twitter.com/thepatwalls) - Rather not talk about it just do that shit!
 * [李自然说](https://www.youtube.com/channel/UCgLUl1WDoDXUtxPaZeSZHsw) - 有趣的灵魂，聊科技人文。
