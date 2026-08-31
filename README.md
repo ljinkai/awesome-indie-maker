@@ -77,6 +77,7 @@ A curated list of awesome Indie Maker
 * [heroku](https://www.heroku.com/) - A platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.
 * [Squarespace](https://www.squarespace.com/) - The all-in-one solution for anyone looking to create a beautiful website. Domains, eCommerce, hosting, galleries, analytics, and 24/7 support all.
 * [Carrd](https://carrd.co/) - Simple, free, fully responsive one-page sites for pretty much anything.
+* [Ibis](https://cartonpliant.github.io/ibis/) - Compose a printable one-page commercial offer in the browser, no account.
 * [Tilda](http://tilda.cc/) - Create beautiful websites without any code.
 * [Wix](https://www.wix.com/) - Free Website Builder | Create a Free Website. Choose a stunning template and customize anything.
 * [WordPress](https://www.wordpress.com/) - Create a free website or build a blog. Dozens of free, customizable, mobile-ready designs and themes. Free hosting and support.
