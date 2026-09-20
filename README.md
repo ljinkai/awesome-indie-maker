@@ -117,6 +117,7 @@ A curated list of awesome Indie Maker
 * [Braintree](https://www.braintreepayments.com/) - Process payments online, including credit cards, debit cards, digital wallets, PayPal, Venmo, Apple Pay, and Google Pay in a single integration.
 * [PayPal:](https://www.paypal.com) - PayPal is the faster, safer way to send money, make an online payment, receive money or set up a merchant account.
 * [Patreon](https://www.patreon.com/) - Best way for artists and creators to get sustainable income and connect with fans.
+* [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free browser-only freelance tools: invoice, quote, retainer outline, NDA, timesheet, and more (MIT, no signup).
 
 
 ## Automate
