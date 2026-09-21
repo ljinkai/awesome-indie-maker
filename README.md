@@ -97,6 +97,7 @@ A curated list of awesome Indie Maker
 * [Reddit](https://www.reddit.com/) - The front page of the internet
 * [submit.co](https://submit.co/) - Where to get press coverage for your startup
 * [Awesome Indie](https://awesomeindie.com/) - Explore projects made by indie makers
+* [AI Indie Maker](https://indiemaker.cn/) - Searchable directory of 2,900+ products built by Chinese indie developers, synced daily from GitHub
 
 ## Grow
 
