@@ -59,6 +59,7 @@ A curated list of awesome Indie Maker
 * [Trello](https://trello.com/) - Organize anything with anyone, anywhere!
 * [BetaList ](https://betalist.com/) - Provides an overview of upcoming internet startups. Discover and get early access to the future.
 
+* [副业项目评估器](https://zhangzzc1994.github.io/side-hustle-scorer/) - 8 维度加权打分，30 秒判断一个副业值不值得做，含复利潜力诊断（免费、无注册、数据不上传）。
 ## Build
 
 🛠 *Build your idea with the tools you already know*
