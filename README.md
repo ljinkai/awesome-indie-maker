@@ -82,6 +82,7 @@ A curated list of awesome Indie Maker
 * [WordPress](https://www.wordpress.com/) - Create a free website or build a blog. Dozens of free, customizable, mobile-ready designs and themes. Free hosting and support.
 * [Google Forms](https://www.google.com/forms/about/) - Free Online Surveys for Personal Use
 * [giphy](https://giphy.com/) - Find everything from funny GIFs, reaction GIFs, unique GIFs and more.
+* [WhoOwnsWhat.xyz](https://whoownswhat.xyz/?utm_source=github&utm_medium=referral&utm_campaign=awesome_lists&utm_content=awesome_indie_maker) - Shared project ledger for indie teams to track tool costs and asset ownership; free plan and MCP access live.
 
 ## Launch
 
