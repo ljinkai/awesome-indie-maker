@@ -117,6 +117,7 @@ A curated list of awesome Indie Maker
 * [Braintree](https://www.braintreepayments.com/) - Process payments online, including credit cards, debit cards, digital wallets, PayPal, Venmo, Apple Pay, and Google Pay in a single integration.
 * [PayPal:](https://www.paypal.com) - PayPal is the faster, safer way to send money, make an online payment, receive money or set up a merchant account.
 * [Patreon](https://www.patreon.com/) - Best way for artists and creators to get sustainable income and connect with fans.
+* [SmartBizCalc](https://smartbizcalc.com/) - Free business calculators for indie makers: pricing, profit margins, break-even, S-corp vs LLC, self-employment tax, startup costs, and 700+ more tools. No sign-up required.
 
 
 ## Automate
