@@ -107,6 +107,7 @@ A curated list of awesome Indie Maker
 * [Social media share images](https://levels.io/phantomjs-social-media-share-pictures/) - How to add shareable pictures to your website with some PhantomJS magic
 * [Discourse](https://www.discourse.org/) - Modern forum software for your community.
 * [Slack](https://slack.com/) - It's where the people you need, the information you share, and the tools you use come together to get things done.
+* [App Store Localizer](https://asolocalization.com/) - Localize your iOS app's store screenshots and metadata from its App Store URL to reach more countries, one-time price.
 
 
 ## Monetize
