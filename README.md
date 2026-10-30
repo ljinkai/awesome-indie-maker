@@ -42,6 +42,7 @@ A curated list of awesome Indie Maker
 * [Carrd](https://carrd.co/)
 * [WIP.chat](https://wip.chat/)
 * [SwissDev Jobs](https://swissdevjobs.ch/)
+* [Heartreveals](https://heartreveals.com/) - Interactive digital love letters & romantic surprise websites for couples.
 
 ## Idea
 
