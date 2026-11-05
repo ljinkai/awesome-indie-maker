@@ -97,6 +97,7 @@ A curated list of awesome Indie Maker
 * [Reddit](https://www.reddit.com/) - The front page of the internet
 * [submit.co](https://submit.co/) - Where to get press coverage for your startup
 * [Awesome Indie](https://awesomeindie.com/) - Explore projects made by indie makers
+* [MeetNewAI](https://meetnewai.com/) - Free bilingual directory of new AI tools, browser-playable AI games and MCP servers, organized by the job you need done.
 
 ## Grow
 
