@@ -97,6 +97,7 @@ A curated list of awesome Indie Maker
 * [Reddit](https://www.reddit.com/) - The front page of the internet
 * [submit.co](https://submit.co/) - Where to get press coverage for your startup
 * [Awesome Indie](https://awesomeindie.com/) - Explore projects made by indie makers
+* [Vaneform](https://vaneform.com/) - Free website traffic checker: monthly visits, trends, countries, and traffic sources
 
 ## Grow
 
