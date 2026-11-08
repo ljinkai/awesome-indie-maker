@@ -58,6 +58,7 @@ A curated list of awesome Indie Maker
 * [Golden Kitty Awards Winners 🏆😺](https://blog.producthunt.com/golden-kitty-awards-winners-7c2628e5f429)
 * [Trello](https://trello.com/) - Organize anything with anyone, anywhere!
 * [BetaList ](https://betalist.com/) - Provides an overview of upcoming internet startups. Discover and get early access to the future.
+* [EarlyLore](https://earlylore.com/) - Research workspace for founders: study real SaaS products, revenue signals, and public competitor changes.
 
 ## Build
 
