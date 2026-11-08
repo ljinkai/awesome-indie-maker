@@ -60,6 +60,9 @@ A curated list of awesome Indie Maker
 * [BetaList ](https://betalist.com/) - Provides an overview of upcoming internet startups. Discover and get early access to the future.
 
 ## Build
+- [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - Native macOS menu bar productivity HUD with calendar, timer, and notes.
+- [Tape](https://github.com/Yvsleyen00941/Tape) - Native macOS stock ticker living in the unused corner space beside the Dock.
+- [Rime](https://github.com/Yvsleyen00941/Rime) - Distraction-free native markdown editor and reader for macOS.
 
 🛠 *Build your idea with the tools you already know*
 
