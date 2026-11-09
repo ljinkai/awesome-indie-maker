@@ -85,6 +85,7 @@ A curated list of awesome Indie Maker
 
 ## Launch
 
+- [AdVariq](https://advariq.com/) - AI ad creative and product marketing visual generator for DTC brands and online sellers.
 🚀 *Big step, hello world*
 
 * [MailChimp](https://mailchimp.com/) - Email marketing, ads, landing pages, and CRM tools to grow your business on your terms.
