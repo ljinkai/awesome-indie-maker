@@ -126,3 +126,6 @@ A curated list of awesome Indie Maker
 * [Cronitor](https://cronitor.io/) - Cron monitoring and uptime healthchecks for your websites, services and APIs.
 * [Upwork](https://www.upwork.com/) - Hire Freelancers. Make things happen.
 * [Uptime Robot](https://uptimerobot.com/) - Downtime Happens. Get Notified! 50 Monitors, Checked Every 5 Minutes, Totally Free!
+
+
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Native macOS tool showing what's playing in the empty corner beside the Dock.
